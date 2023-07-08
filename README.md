@@ -16,7 +16,7 @@ track metrics, collect and monitor log files, and set alarms.</li>
 an AWS Glue Data Catalog.</li>
 <li><strong>Data Catalog</strong>: AWS Data Catalog is a fully managed metadata repository that makes it easy to discover and manage data in AWS. Data Catalog can be used with
 other AWS Services, such as AWS Athena.</li>
-<li><strong>Amazon Athena</strong>strong: Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Athena can be used to analyze
+<li><strong>Amazon Athena</strong>: Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Athena can be used to analyze
 data in Glue Data Catalog or in other S3 buckets</li>
 
 ### Install Packages
